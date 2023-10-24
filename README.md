@@ -5,6 +5,5 @@ After Halloween, the full poem and all art will be revealed!
 <br/>
 <br/>
 
-<a href="https://halloweencountdown.vercel.app/">
-<img align="center" src="https://github.com/tessathornberry/halloweencountdown/assets/105292208/673a94e0-2b53-43c5-a2f2-a2594c7d94d6" width="auto" height="500" ></a>
+<a href="https://halloweencountdown.vercel.app/"><img align="center" src="https://github.com/tessathornberry/halloweencountdown/assets/105292208/673a94e0-2b53-43c5-a2f2-a2594c7d94d6" width="auto" height="500" ></a>
 
